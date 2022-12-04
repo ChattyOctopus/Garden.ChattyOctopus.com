@@ -1,4 +1,4 @@
-![Chatty Octopus Banner](https://garden.chattyoctopus.com/images/octopus_banner.jpg)
+![Chatty Octopus Banner](https://garden.chattyoctopus.com/images/chatty_octopus_garden.svg)
 
 # Chatty Octopus's Garden - An Aquatic Playground
 
